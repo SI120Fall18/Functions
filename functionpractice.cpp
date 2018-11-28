@@ -17,7 +17,7 @@ int main() {
 
   if(number < 1) {
     printLess(); 
-  } else if(number > 25 {
+  } else if(number > 25) {
     printGreater();
   } else {
     printValid();
